@@ -1,0 +1,49 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Calculus"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ]
+  ],
+  "legacy_uid": "f5d4bf19-ee14-590d-e94d-9e2b266614ba",
+  "instructors": {
+    "content": [
+      "b28f05bb-f3c3-b44d-28bc-8f11fc7834cd"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "24c4a7d9-cd56-9a82-ef34-a8563e50add8",
+    "website": "18-01-single-variable-calculus-fall-2006"
+  },
+  "course_title": "Single Variable Calculus",
+  "course_description": "This introductory calculus course covers differentiation and integration of functions of one variable, with applications.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.01",
+  "course_image_thumbnail": {
+    "content": "1cf60f61-e157-cd09-f501-8019ddb11f27",
+    "website": "18-01-single-variable-calculus-fall-2006"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Lecture Videos"
+  ],
+  "site_uid": "499e050e-246c-48fe-96db-be8443729a06",
+  "site_short_id": "18.01-fall-2006",
+  "site_url_path": "courses/18-01-single-variable-calculus-fall-2006",
+  "title": "Course Metadata"
+}
